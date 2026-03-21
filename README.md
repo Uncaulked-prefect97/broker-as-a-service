@@ -35,6 +35,10 @@ Transport: Streamable HTTP
 
 No authentication is required. An optional API key can be provided for partner attribution.
 
+### Documentation
+
+For detailed human-readable documentation, visit [docs.chainflip-broker.io/resources/ai-documentation](https://docs.chainflip-broker.io/resources/ai-documentation/).
+
 ### Usage Example
 
 1. Call `list_assets` to see available assets
